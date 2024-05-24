@@ -22,7 +22,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso Fundamentos de IA para Devs do Santander na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/pedroaugust096/Creating-an-ebook-using-AI/blob/main/output/ebook%20-%20explorando%20dicionários%20em%20python.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
